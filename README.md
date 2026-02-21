@@ -1,45 +1,77 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pratick!;" />
-</h1>
-
-<h3 align="center">A passionate software developer from India</h3>
-
-<br/>
-
+<!-- Animated Header -->
 <div align="center">
- 
- 🔭 I’m currently working on **an Author Proofing Tool**
- 
- 🌱 I’m currently learning **Rust, Docker, AWS**
-
-💬 Ask me about **Python, Typescript, Next.js, React... or anything [here](https://github.com/Pratick-AT/Pratick-AT/issues)**
-
-⚡ Fun fact **Lobsters taste food with their feet**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:atpratick@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/pratick-cariappa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/Pratick-AT" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+🚀;Building+Production-Grade+Systems;Python+Native+🐍;Turning+Research+into+Reality" />
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
+
+## 👋 About Me
+> Bridging the gap between Jupyter notebooks and production Kubernetes clusters
+
+- 🔭 Building scalable ML pipelines  
+- ⚡ Specializing in MLOps + LLM systems  
+- 🐍 Python • FastAPI • Docker • Kubernetes  
+- 🌱 Exploring LLMs, Vector DBs, Multi-modal AI  
+
+---
+
+## 🛠 Tech Stack
+
+### ML / DL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### MLOps / Backend
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### Cloud / Data
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,flask,postgres" /><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratick-AT&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratick-AT&layout=compact&theme=midnight-purple&hide_border=true"/>
+
 </div>
 
-<br/>
-<hr/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratick-AT&theme=midnight-purple&hide_border=true"/>
 
-<br/>
+---
+
+## 🔥 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratick-AT&theme=github-compact&hide_border=true&color=6C63FF&line=6C63FF"/>
+
+---
+
+## 🎯 Current Focus
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.building = "Real-time recommendation systems"
+        self.learning = ["LLM Fine-tuning", "Distributed ML"]
+        self.goal = "Scale to 1M RPM 🚀"
+```
+
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
